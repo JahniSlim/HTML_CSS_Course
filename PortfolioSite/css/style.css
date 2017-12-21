@@ -1,0 +1,9 @@
+body {
+	font-family: 'Lusitana', serif;
+}
+
+#front-page {
+	background-image: url("../images/main_background.jpg");
+	padding-top: 150px;
+	padding-bottom: 150px;
+}
