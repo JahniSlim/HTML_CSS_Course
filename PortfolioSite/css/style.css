@@ -1,5 +1,6 @@
 body {
 	font-family: 'Lusitana', serif;
+	color: #fffdf9;
 }
 
 #front-page {
@@ -7,3 +8,11 @@ body {
 	padding-top: 150px;
 	padding-bottom: 150px;
 }
+
+#front-page-text {
+	padding-top: 150px;
+	text-transform: uppercase;
+}
+
+
+
