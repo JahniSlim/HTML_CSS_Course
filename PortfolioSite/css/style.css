@@ -50,6 +50,16 @@ body {
 }
 
 #resume-section {
+	height: 480px;
+}
 
+#resume-section .row {
+	padding-top: 180px;
+}
+
+#resume-section i {
+	padding-top: 26px;
+	display: block;
+	text-align: center;
 }
 
