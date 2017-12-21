@@ -14,5 +14,32 @@ body {
 	text-transform: uppercase;
 }
 
+#skills-section {
+	color: #33260e;
+	height: 680px;
+}
 
+.col-sm-4 i{
+	display: block;
+	text-align: center;
+	color: #f48e2e;
+}
+
+.col-sm-4 .fa {
+	padding-top: 21px;
+}
+
+.col-sm-4 .icon-javascript {
+	font-size: 6em;
+	text-align: center;
+	padding-left: 22px;
+}
+
+#portfolio-section {
+
+}
+
+#resume-section {
+
+}
 
